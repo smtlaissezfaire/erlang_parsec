@@ -1,4 +1,4 @@
-A clone of Haskel's parsec in erlang.
+A clone of Haskell's parsec in erlang.
 
 Source code from
 
