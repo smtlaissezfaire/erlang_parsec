@@ -1,0 +1,5 @@
+A clone of Haskel's parsec in erlang.
+
+Source code from
+
+http://www.engr.uconn.edu/~jeffm/Source/Erlang/
